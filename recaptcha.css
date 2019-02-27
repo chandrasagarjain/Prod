@@ -53,6 +53,7 @@ body {
 
 .cancel {
     width: 16rem;
+    margin:auto;
     margin-top: 2rem;
     padding-top: 0.5rem;
     padding-bottom: 0.3rem;
